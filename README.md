@@ -4,6 +4,8 @@
 
 GLO-PEM is a light-use efficiency-based ecosystem model. The model was originally developed for estimating GPP and NPP from remote sensing data and implemented with AVHRR images. In my M.Sc. thesis at the ITC Faculty of the University of Twente, I used this model to estimate NPP within a temperate forest. However, I took a different path this time by using Sentinel-2 images and ERA5 climate variables. The objective was to assess the model's performance with high spatial resolution data and investigate the NPP's response to drought. One potential change has been made to estimate NPP after GPP using a fraction.
 
+The codes given here are entirely prepared by me using MATLAB based on the scientific publications where the model's equations are available.
+
 2. About the algorithms
 
 #The main model algorithm was created based on the following papers:
