@@ -6,8 +6,7 @@ This repository contains code developed by Saiful Islam as part of my master's r
 - **No license is currently granted** for reuse, reproduction, or distribution.
 - If you wish to use this code for your own research, **please contact me** for permission.
 - If the code forms a substantial part of your research or publication, **authorship should be discussed and offered**.
-- Proper attribution is required. Please cite my thesis:
-  Islam, M. S. (2023). Forest net primary productivity response to an extreme climate event [Master's Thesis, University of Twente]. https://purl.utwente.nl/essays/96956
+- Proper attribution is required. Please cite my thesis: Islam, M. S. (2023). Forest net primary productivity response to an extreme climate event [Master's Thesis, University of Twente]. https://purl.utwente.nl/essays/96956
 - Proper acknowledgement should be provided.
 
 Unauthorized use or redistribution is not permitted.
